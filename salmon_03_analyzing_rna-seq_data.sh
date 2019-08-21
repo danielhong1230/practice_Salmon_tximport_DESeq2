@@ -2,7 +2,7 @@
 
 # Analyzing your RNA-Seq data with Salmon
 
-# 01 Obtaining a transcriptome and building an index
+# Obtaining a transcriptome and building an index
 
 # Create a directory named 'salmon_tutorial', and change the directory:
 mkdir salmon_tutorial
